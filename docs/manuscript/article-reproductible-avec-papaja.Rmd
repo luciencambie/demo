@@ -1,5 +1,5 @@
 ---
-title             : "Un article reproductible avec Papaja"
+title             : "demo dataset covid19 BE"
 shorttitle        : "Un Article reproductible"
 
 author: 
